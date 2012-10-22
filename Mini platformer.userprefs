@@ -1,0 +1,21 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Platformer/Player/scripts/SideScroller.cs">
+    <Files>
+      <File FileName="Assets/Platformer/Platforms/Platform/Trigger_change_level.cs" Line="8" Column="40" />
+      <File FileName="Assets/Platformer/Platforms/Weak platform/weak_platform.cs" Line="16" Column="44" />
+      <File FileName="Assets/Platformer/Player/scripts/player_animation_handler.cs" Line="29" Column="4" />
+      <File FileName="Assets/Platformer/Player/scripts/SideScroller.cs" Line="29" Column="45" />
+      <File FileName="Assets/Platformer/Platforms/Candy/candy.cs" Line="16" Column="39" />
+      <File FileName="Assets/Platformer/Platforms/Portal/animation_handler.cs" Line="23" Column="40" />
+      <File FileName="Assets/Platformer/Platforms/Portal/level_changer.cs" Line="9" Column="31" />
+      <File FileName="Assets/Platformer/Main menu/hoovering candy/hover.cs" Line="12" Column="39" />
+      <File FileName="Assets/Platformer/Main menu/Button scripts/dance.cs" Line="13" Column="1" />
+      <File FileName="Assets/Platformer/Main menu/jumping pumpkin/jump.cs" Line="34" Column="21" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
